@@ -1,0 +1,429 @@
+{
+
+  "words": {
+    "english": "Englisch",
+    "german": "Deutsch",
+    "air": "Luft",
+    "earth": "Erde",
+    "fire": "Feuer",
+    "water": "Wasser",
+    "yes": "Ja",
+    "no": "Nein"
+  },
+  "texts": {
+    "masonicPhone": "Freimaurer-Telefon, es entstehen keine Kosten.",
+    "AssignTheElements" : "Ordnet die Elemente aus eurem Rucksack via Augmented Reality im Mirabellgarten richtig zu."
+  },
+  "modals":{
+    "notArSupport":"Bitte versuche nicht das Spiel ohne funktionierendem AR zu spielen. Dein Team könnte dadurch bei gewissen Tasks nicht mehr weiter kommen.",
+    "riddleSolved":"Rätsel aktualisiert",
+    "incorrectLocation": "Hier seid ihr am falschen Ort.",
+    "takeElement": "Sie haben das Element \"{{name}}\" erhalten.",
+    "attach_air": "Das Element | Luft | wurde der | Herkules ringt mit Anthaeus | Statue zugewiesen.",
+    "attach_earth": "Das Element | Erde | wurde der | Hades entführt Persephone | Statue zugewiesen.",
+    "attach_fire": "Das Element | Feuer | wurde der | Aeneas rettet Anchises | Statue zugewiesen.",
+    "attach_water": "Das Element | Wasser | wurde der | Paris raubt Helena | Statue zugewiesen.",
+    "remained": "VERBLEIBEND",
+    "scanCode":"Code scannen",
+    "dasKino": "Ihr befindet euch vor \"Das Kino\". Das Gebäude stammt aus dem 14. Jahrhundert war der frühere Engelwirt, bis es im 19. Jahrhundert zum goldenen Engel umgebaut wurde und schließlich 1917 zum Kino.\n\nDoch leider seid ihr hier falsch. Probiert noch einmal einen anderen Weg! ",
+    "spiritOfMozart": "\"Setze dich auf den Stuhl - Schließe Deine Augen - Kehre in Dich - Verliere die Zeit\" \n\nIhr befindet euch vor dem \"Spirit of Mozart\". Die aus Edelstahl gefertigte Installation lädt zur Meditation im belebten Stadtraum ein.\n\nDoch leider seid ihr hier falsch. Probiert noch einmal einen anderen Weg!",
+    "stage_1": "Wer sind die Freimaurer? \n Die Freimaurer sind ein ethischer Bund mit der Grundidee, dass Arbeit an sich selbst zu mehr Selbsterkenntnis und menschlicheren Verhalten führt. \n\n Zu ihren Idealen zählen Freiheit, Gleichheit, Brüderlichkeit, Toleranz und Humanität und diese sollen im Alltag gelebt werden.",
+    "stage_2" : "Super! Ihr steht vor dem Denkmal von Theophrastus Bombast von Hohenheim, bekannt als Paracelsus (*1493).\n\nEr lebte später in Salzburg in diesem Haus und war unter anderem einer der bekanntesten europäischen Ärzte.\n\nVon ihm stammt das berühmte Zitat: „Alle Dinge sind Gift und nichts ist ohne Gift; allein die Dosis macht, dass ein Ding kein Gift ist. Paracelsus erlag 1541 einer Quecksilbervergiftung.\n\nAls Zeichen des Lebens war Wasser stets ein wichtiges Element. Der Kelch des Paracelsus befindet sich nun in eurem Rucksack. Die nächste Aufgabe erwartet euch - euer Rätsel wurde aktualisiert!",
+    "stage_4" : "Super, ihr habt das geheime Zeichen bei Mozarts Wohnhaus gefunden! Die Familie Mozart lebte in diesem Haus von 1773 bis 1787. W.A. Mozart selbst war damals 17 – 31 Jahre alt und musikalisch sehr aktiv. Euer Rätsel wurde aktualisiert!",
+    "stage_7": "Ihr befindet euch nun im schönen Mirabellgarten. Er wurde um 1690 im Auftrag von Fürsterzbischof Johann Ernst Graf Thun und durch Fischer von Erlach errichtet.\n\nMit den Freimaurern stets verwoben war Franz de Paula Johann Josef Graf von Thun. Er bewog wahrscheinlich Mozart dazu, den Freimaurern beizutreten.",
+    "stage_8": "**Marko-Feingold-Steg**\nIhr steht auf dem Marko-Feingold-Steg (früher Makartsteg ). Er wurde 2020 nach Hofrat Marko M. Feingold umbenannt, der von 1979-2019 Präsident der Israelitischen Kultusgemeinde Salzburg und Ehrenbürger der Stadt war. 2019 verstarb er im Alter von 106 Jahren. ",
+    "stage_9" : "Super, ihr habt das geheime Zeichen bei Mozarts Geburtshaus gefunden! Für dieses Rätsel ist nun Teamgeist und eure Logikkompetenz gefragt. Euer Rätsel wurde aktualisiert!",
+    "stage_10": "Bei den Freimaurern hatten Zahlen eine wichtige symbolische Bedeutung, vor allem die Zahl 3: In Form von Dreiecken ( das Gleichseitige) soll die Verehrung des Unendlichen und Vollkommenen aufgezeigt werden, sowie die Vereinigung von “Wahrem, Schönem und Gutem”.\n\nEuer aktuelles Rätsel wurde aktualisiert.",
+    "stage_11" : "Super, ihr habt das geheime Zeichen beim Zirkelwirt gefunden! Hier hat sich zu Mozarts Zeiten die Freimaurerloge „Zur Fürsicht“ getroffen. Ein wichtiger Bestandteil diverser Freimaurer-Riten war das Licht als Zeichen für das Leben. Die Lichteinbringung ist ein feierlicher Anlass zur Eröffnung einer neuen Freimaurerloge. Euer Rätsel wurde aktualisiert!",
+    "stage_12" : "Wunderbar! Zur Lichteinbringung hast du die Zauberflöte des Papageno als Geschenk erhalten. Lege sie in deinen Rucksack, du wirst sie später noch gebrauchen können!",
+    "stage_15" : "Super, ihr habt das geheime Zeichen bei gefunden! Ihr seid auf dem richtigen Weg! Geht weiter zum Mozartdenkmal, eurer letzten Station. Euer Rätsel wurde aktualisiert!",
+    "stage_16" : "Super, ihr habt eure letzte Station erreicht! An diesem historischen Platz hat Mozart kurz vor seinem Tod eines seiner berühmtesten Werke komponiert: Die Zauberflöte!",
+    "attachQuestion": "Möchtest du das Element {{name}} dieser Statue zuordnen?",
+    "pauseWarning": "Wenn ihr das Spiel nun pausiert, könnt ihr euch nicht in der Rangliste eintragen. Wollt ihr das Spiel nun pausieren?",
+    "continueGame": "Das Spiel kann innerhalb der nächsten 7 Tage wiederaufgenommen werden. Stellt sicher, dass alle Spieler bereit sind wenn ihr das Spiel wiederaufnehmt!",
+    "wrongAnswer": "Falsche Antwort",
+    "firstSkip": "Wenn du ein Rätsel überspringst, verlierst du 10min von deiner Spielzeit. Möchtest du das Rätsel wirklich überspringen?",
+    "untimedFirstSkip": "Möchtest du das Rätsel wirklich überspringen?",
+    "incorrectNumber":"Wir haben eine falsche Nummer geschrieben",
+    "timeOver":"Die Spielzeit ist abgelaufen. Du kannst das Spiel fortführen aber nicht mehr in die Rangliste kommen."
+  },
+
+  "colors": {
+    "red": "Rot",
+    "blue": "Blau",
+    "pink": "Rosa",
+    "green": "Grün",
+    "purple": "Lila",
+    "yellow": "Gelb"
+  },
+
+  "buttons": {
+    "hint_1": "Hinweis 1",
+    "hint_2": "Hinweis 2",
+    "hint_2_solution": "Hinweis 2 (Lösung)",
+    "hint_3_solution": "Hinweis 3 (Lösung)",
+    "activate_answer": "ANTWORT AKTIVIEREN",
+    "start_new_game": "Neues Spiel starten",
+    "join_running_game": "Laufendem Spiel beitreten",
+    "introduction_intro": "EINLEITUNG / INTRO",
+    "starting_point": "FINDE DEN STARTPUNKT",
+    "start_game": "SPIEL STARTEN",
+    "continue_game": "SPIEL FORTSETZEN",
+    "mainMenu":"Haupt-\nauswahl",
+    "currentRiddle":"Aktuelles\nRätsel",
+    "current_riddle":"Aktuelles Rätsel",
+    "rucksack": "Rucksack\nöffnen",
+    "map": "Karte\nÖffnen",
+    "cameraAr": "AR Kamera\naktivieren",
+    "cameraQR": "QR code \n scanner",
+    "hints": "Hinweise",
+    "start_singing": "Fang an zu singen",
+    "pauseGame":"Spiel pausieren",
+    "continueGame":"Spiel fortsetzen",
+    "skipRiddle":"Rätsel überspringen",
+    "exitGameSession":"Aktuelles Spiel beenden",
+    "timedMode": "Ranking Modus",
+    "untimedMode": "Zeitloser Modus"
+  },
+
+  "inputs": {
+    "placeholder": {
+      "answer": "Antwort hier eintragen"
+    },
+    "labels": {
+      "solution": "Lösung",
+      "player_name": "Spielername",
+      "activation_code": "Aktivierungscode",
+      "language": "Sprache:"
+    }
+  },
+
+  "alerts": {
+    "traffic":"Bitte denkt daran, dass ihr euch im öffentlichen Raum bewegt und es andere Verkehrsteilnehmer gibt. Also überquert Straßen nach Möglichkeit bei Fußgängerampeln und seht euch immer genau um.",
+    "element_attached":"Sie haben das Element an der korrekten Statue angebracht. Es sind noch {{count}} weitere Elemente zum Zuordnen übrig.",
+    "element_already_attached": "Dieses Element ist bereits zugeordnet.",
+    "DeleteTitle": "Ջնջել",
+    "unfilled_elements": "Jemand in Ihrem Team hat dieses Element bereits.",
+    "element_already_taken": "Das Element {{name}} wurde bereits genommen.",
+    "enough_space_1": "In deinem Rucksack hat nur 1 Element platz.",
+    "enough_space_2": "In deinem Rucksack haben nur 2 Elemente platz.",
+    "element_not_in_backpack": "Du hast nicht das richtige Element für diese Statue in deinem Rucksack.",
+    "cup_is_not_active": "Du benötigst etwas, um das Wasser aufzufangen!",
+    "element_is_not_active": "Zuerst müssen Sie das Element {{name}} aktivieren. ",
+    "canNotNow": "Du kannst das Item noch nicht benutzen.",
+    "activeElement":"Um ein Element einer Statue zuordnen zu können, musst du zuvor ein Element in deinem Rucksack auswählen.",
+    "newTakenElement":"Deine Freunde haben das Element \"{{name}}\" genommen",
+    "chooseGameMode": "Spielmodus wählen",
+    "wrongAnswer": "Falsche Antwort. Das Rätsel wurde zurückgesetzt."
+  },
+
+  "notifications":{
+    "cup_activated": "Der Kelch ist aktiviert",
+    "element_activated": "Das Element ist aktiviert"
+  },
+
+  "riddles": {
+    "1": {
+      "text": "Folge der Karte bis zu dem eingezeichneten Ort. Dort angekommen finde mit der AR Kamera das geheime Zeichen um das Spiel zu starten.",
+      "title": "Linzergasse",
+      "hints": {
+        "1": "Schaut, dass ihr euch genau am auf der Karte eingezeichneten Punkt befindet (rote Stecknadel in der Karte).",
+        "2": "Ihr müsst die Hauswand mit dem Pferdekopf mit Hilfe der AR Kamera anschauen. Dort sollte ein Freimaurersymbol eingeblendet werden.",
+        "3": "Ihr könnt dieses Rätsel im Hauptmenü rechts oben bei dem Zahnrad (Einstellungen) überspringen (Skip riddle einmal drücken und links oben wieder zurück gehen)."
+      }
+    },
+    "2": {
+      "text": "Zu Ehren eines wichtigen Arztes des 16. Jahrhunderts gibt es hier ein Denkmal (siehe Karte) \n\n Findet es und er zeigt euch den Weg! Sein Name war: Philippus Aureolus Theophrastus Bombastus von Hohenheim",
+      "title": "Linzergasse",
+      "hints": {
+        "1": "Ihr sucht ein Bildnis von Paracelsus.",
+        "2": "Seht vor allem auch auf Wänden weiter oben nach.",
+        "3": "Schau über dem Alpz Gelato & Café!"
+      }
+    },
+    "3": {
+      "text": "Zu Ehren eines wichtigen Arztes des 16. Jahrhunderts gibt es hier ein Denkmal (siehe Karte) \n\n Findet es und er zeigt euch den Weg! Sein Name war: Philippus Aureolus Theophrastus Bombastus von Hohenheim \n\n Wir reisen in der Geschichte noch weiter zurück. Nimm den Kelch und befülle ihn mit Wasser. Drei Orte stehen zur Auswahl, doch nur einer ist korrekt. Bereits seit 1374 wird diese Quelle genutzt!",
+      "title": "Linzergasse",
+      "hints": {
+        "1": "Erkunden sie alle 3 Standorte - es könnte etwas versteckt sein.",
+        "2": "Scanne die Wände falls du etwas besonderes entdeckst.",
+        "3": "Du musst den Kelch im Rucksack aktivieren bevor du den Scan machst."
+      }
+    },
+    "4": {
+      "text": "Finde das geheime Zeichen",
+      "title": "Mozarts Wohnhaus",
+      "hints": {
+        "1": "Suche das Zeichen mit der AR Kamera.",
+        "2": "Scanne die Gebäude-Wände um das geheime Zeichen zu finden.",
+        "3": "Wenn ihr den Torbogen beim Eingang zu Mozarts Wohnhaus mit der AR Kamera anschaut, sollte ein Freimaurerzeichen erscheinen. Ihr könnt dieses Rätsel auch im Hauptmenü rechts oben bei dem Zahnrad (Einstellungen) überspringen (Rätsel überspringen einmal drücken und links oben wieder zurück gehen)."
+      }
+    },
+    "5": {
+      "text": "Mozart hat den Hinweis zum nächsten Standort durch seine Musik verschlüsselt, damit nur eingeweihte Freimaurer seinen Spuren folgen können. Unter welchem Namen ist dieses Musikstück bekannt?",
+      "title": "Mozarts Wohnhaus",
+      "hints": {
+        "1": "Tausche die Teile des geheimen Zeichens.",
+        "2": "Ist das Zeichen korrekt, so könnt ihr die Freimaurer-Telefon-Nummer ablesen.",
+        "3": "Eine kleine Nachtmusik"
+      }
+    },
+    "6": {
+      "text": "Der Mirabellgarten wurde um 1690 im Auftrag von Fürsterzbischof Johann Ernst Graf Thun durch Fischer von Erlach errichtet.\n\n Immer verwoben mit den Freimaurern war Franz de Paula Johann Josef Graf von Thun, der womöglich Mozart zum Eintritt in den Freimaurerorden bewog.\n\n Begebt euch in den Mirabellgarten und findet alle vier Elemente (Feuer, Wasser, Erde und Luft)!",
+      "secondText": "Begebt euch in den Mirabellgarten und findet alle vier Elemente (Feuer, Wasser, Erde und Luft)!",
+      "title": "Mirabellgarten",
+      "hints": {
+        "1": "Begebt euch ins Zentrum des Mirabell-Gartens.",
+        "2": "Euer Ziel ist der \"Vier-Elemente-Brunnen\".",
+        "3": "Beim Brunnen angekommen aktualisiert sich das Rätsel."
+      }
+    },
+    "7": {
+      "text": "Begebt euch in den Mirabellgarten und findet alle vier Elemente (Feuer, Wasser, Erde und Luft)!",
+      "title": "Mirabellgarten",
+      "hints": {
+        "1": "Es ist etwas in eurem aktuellen Rätsel versteckt.",
+        "2": "Tippt auf die euch angezeigten Element-Icons um sie zu sammeln.",
+        "3": "Sammelt alle 4 Elemente damit ihr zum nächsten Teil des Rätsels kommt."
+      },
+      "hints_2": {
+        "1": "Aktiviert ein Element in eurem Rucksack bevor ihr die entsprechende Statue scannt.",
+        "2": "Falls ein Scan nicht auf Anhieb funktioniert, stellt sicher, das richtige Element ausgewählt zu haben. Der Scan sollte recht nah an der Statue durchgeführt werden.",
+        "3": ""
+      }
+    },
+    "8": {
+      "text": "Geht zur Brücke der Liebenden! \n\n Findet die Mitte und das Licht! \n\n Mozart hat sich dort verewigt!",
+      "title": "Brücke der Liebenden",
+      "hints": {
+        "1": "Makartsteg aka Marko-Feingold-Steg",
+        "2": "In der Mitte der Brücke befindet sich eine Leuchtröhre. Sucht dort in der Nähe nach einem speziellen Schloss.",
+        "3": "Auf einem der Schlösser unter der Leuchtröhre befindet sich ein rotes Schloss. Auf einer Seite ist ein kleiner Text zu Mozart, auf der anderen ein QR-Code. Scannt diesen um weiter zu kommen!"
+      }
+    },
+    "9": {
+      "text": "Wolfgang Amadeus Mozart wurde am 27.01.1756 in Salzburg geboren. \n\n Vielleicht hat er hier in der Nähe einen Hinweis hinterlassen?!",
+      "title": "Mozarts Geburtshaus",
+      "hints": {
+        "1": "Nutzt eure Kamera, um das Freimaurersymbol an der Wand oder in der Nähe von Mozarts Geburtshaus zu finden.",
+        "2": "Verschiedene Spieler sehen verschiedene Informationen. Tragt alle Informationen zusammen, um das Rätsel zu lösen. Aber passt auf! Nach jeder falschen Antwort (egal welcher Spieler), wird das Rätsel neu generiert!",
+        "3": "Die aktuell richtige Lösung lautet: "
+      }
+    },
+    "10": {
+      "text": "Wolfgang Amadeus Mozart wurde am 27.01.1756 in Salzburg geboren. \n\n Vielleicht hat er hier in der Nähe einen Hinweis hinterlassen?!",
+      "title": "Mozarts Geburtshaus",
+      "hints": {
+        "1": "Nutzt eure Kamera, um das Freimaurersymbol an der Wand oder in der Nähe von Mozarts Geburtshaus zu finden.",
+        "2": "Verschiedene Spieler sehen verschiedene Informationen. Tragt alle Informationen zusammen, um das Rätsel zu lösen. Aber passt auf! Nach jeder falschen Antwort (egal welcher Spieler), wird das Rätsel neu generiert!",
+        "3": "Die aktuell richtige Lösung lautet: "
+      }
+    },
+    "11": {
+      "text": "Seht euch an diesem spannenden Ort um.",
+      "title": "Zum Zirkelwirt",
+      "hints": {
+        "1": "Nutzt eure Kamera, um das Freimaurersymbol an der Wand oder in der Nähe vom Zirkelwirt zu finden.",
+        "2": "Öffnet eure Kamera und erkundet den Platz. Sobald ein Spieler die relevante Statue gefunden hat, geht es weiter",
+        "3": "Ihr müsst die Papageno-Statue von einer bestimmten Seite aus mit der AR Kamera anschauen. Ihr könnt dieses Rätsel auch im Hauptmenü rechts oben bei dem Zahnrad (Einstellungen) überspringen (Rätsel überspringen einmal drücken und links oben wieder zurück gehen)."
+      }
+    },
+    "12": {
+      "text": "Seht euch an diesem spannenden Ort um. \n\n Beim Zirkelwirt, so munkelt man, hat sich zu Mozarts Zeiten die Freimaurerloge „Zur Fürsicht“ getroffen. \n\n Verteilt euch und sucht nach einem markanten Symbol auf diesem Platz.",
+      "title": "Zum Zirkelwirt",
+      "hints": {
+        "1": "Nutzt eure Kamera, um das Freimaurersymbol an der Wand oder in der Nähe vom Zirkelwirt zu finden.",
+        "2": "Öffnet eure Kamera und erkundet den Platz. Sobald ein Spieler die relevante Statue gefunden hat, geht es weiter.",
+        "3": "Ihr müsst die Papageno-Statue von einer bestimmten Seite aus mit der AR Kamera erfassen. Ihr könnt dieses Rätsel auch im Hauptmenü rechts oben bei dem Zahnrad (Einstellungen) überspringen (Rätsel überspringen einmal drücken und links oben wieder zurück gehen)."
+      }
+    },
+    "13": {
+      "text": "Begebt euch zum Mozartsteg, aber passt beim Überqueren von Straßen auf!",
+      "title": "Mozartsteg",
+      "hints": {
+        "1": "Seht auf eure Karte.",
+        "2": "Euer Ziel ist der Mozartsteg.",
+        "3": "Begebt euch bis zur Mitte auf den Mozartsteg. (gezeigt auf der Map)"
+      }
+    },
+    "14": {
+      "text": "Zeigt Mozart, wie gut ihr Töne halten könnt!",
+      "title": "Mozartsteg",
+      "hints": {
+        "1": "Singt!",
+        "2": "Singt alle gemeinsam!",
+        "3": "Wenn alle bei ihren Handys einen Ton in benötigter Lautstärke halten kommt ihr zum nächsten Rätsel."
+      }
+    },
+    "15": {
+      "text": "Geht hinauf zum Kapuzinerkloster und folgt dem Weg. Seht ihr das Freimaurer-Symbol seid ihr am richtigen Weg.",
+      "title": "Kapuzinerkloster",
+      "hints": {
+        "1": "Begebt euch zu dem auf der Karte markierten Ort.",
+        "2": "Dort angekommen seht euch mit der AR Kamera um.",
+        "3": "Der scan sollte mit den Blauen Kacheln an der Wand und mit der Büste funktionieren."
+      }
+    },
+    "16": {
+      "text": "Es ist fast geschafft! \n Begebt euch zur letzten Station und nutzt all euer bisher erworbenes Wissen, sowie die AR Kamera, um mit Mozart gemeinsam die letzten Schritte zu gehen.",
+      "title": "Kapuzinerkloster",
+      "hints": {
+        "1": "Folgt dem Weg.",
+        "2": "Das Mozartdenkmal ist euer Ziel.",
+        "3": "Seht euch das Denkmal mit der AR Kamera an!"
+      }
+    },
+    "17": {
+      "1": {
+        "text": "Ihr habt es fast geschafft! \n Das Mozart-Denkmal ist ein Geschenk der Familie der",
+        "title": "Kapuzinerkloster",
+        "hints": {
+          "1": "Seht euch das Monument genauer an.",
+          "2": "Die gesuchte Information ist seitlich an dem Monument angebracht.",
+          "3": "Das Mozart-Denkmal ist ein Geschenk der Familie der \"Freiherren von Schwarz\". "
+        }
+      },
+      "2": {
+        "text": "Ihr habt es fast geschafft! \n Das Mozart-Denkmal wurde enthüllt am",
+        "title": "Kapuzinerkloster",
+        "hints": {
+          "1": "Seht euch das Monument genauer an.",
+          "2": "Die gesuchte Information ist seitlich an dem Monument angebracht.",
+          "3": "Das Mozart-Denkmal wurde enthüllt am \"18/07/1877\". "
+        }
+      }
+    },
+    "18": {
+      "1": {
+        "text": "Ihr habt es fast geschafft! \n Das Mozart-Denkmal ist ein Geschenk der Familie der \"Freiherren von Schwarz\" \n Deine Antwort ist richtig. Habt ihr bereits beide Fragen richtig beantwortet, so fehlt euch nur mehr ein zentrales Objekt!",
+        "title": "Kapuzinerkloster",
+        "hints": {
+          "1": "Es geht erst weiter, wenn alle Spieler ihre Fragen beantwortet haben.",
+          "2": "Eines der bekanntesten Stücke Mozarts war heute schon das Thema. Um welches Instrument handelt es sich hierbei?",
+          "3": "Nehmt die Zauberflöte aus eurem Rucksack und seht, was passiert."
+        }
+      },
+      "2": {
+        "text": "Ihr habt es fast geschafft! \n Das Mozart-Denkmal wurde enthüllt am ",
+        "title": "Kapuzinerkloster",
+        "hints": {
+          "1": "Seht euch das Monument genauer an.",
+          "2": "Die gesuchte Information ist seitlich an dem Monument angebracht.",
+          "3": "Das Mozart-Denkmal wurde enthüllt am \"18/07/1877\". "
+        }
+      }
+    },
+    "19": {
+      "1": {
+        "text": "Ihr habt es fast geschafft! \n Das Mozart-Denkmal ist ein Geschenk der Familie der",
+        "title": "Kapuzinerkloster",
+        "hints": {
+          "1": "Seht euch das Monument genauer an.",
+          "2": "Die gesuchte Information ist seitlich an dem Monument angebracht.",
+          "3": "Das Mozart-Denkmal ist ein Geschenk der Familie der \"Freiherren von Schwarz\" "
+        }
+      },
+      "2": {
+        "text": "Ihr habt es fast geschafft! \n\n Das Mozart-Denkmal wurde enthüllt am \"18/07/1877\" \n\n Deine Antwort ist richtig. Habt ihr bereits beide Fragen richtig beantwortet, so fehlt euch nur mehr ein zentrales Objekt!",
+        "title": "Kapuzinerkloster",
+        "hints": {
+          "1": "Es geht erst weiter, wenn alle Spieler ihre Fragen beantwortet haben.",
+          "2": "Eines der bekanntesten Stücke Mozarts war heute schon das Thema. Um welches Instrument handelt es sich hierbei?",
+          "3": "Nehmt die Zauberflöte aus eurem Rucksack und seht, was passiert."
+        }
+      }
+    },
+    "20": {
+      "1": {
+        "text": "Ihr habt es fast geschafft! \n\n Das Mozart-Denkmal ist ein Geschenk der Familie der \"Freiherren von Schwarz\" \n\n Deine Antwort ist richtig. Habt ihr bereits beide Fragen richtig beantwortet, so fehlt euch nur mehr ein zentrales Objekt!",
+        "title": "Kapuzinerkloster",
+        "hints": {
+          "1": "Es geht erst weiter, wenn alle Spieler ihre Fragen beantwortet haben.",
+          "2": "Eines der bekanntesten Stücke Mozarts war heute schon das Thema. Um welches Instrument handelt es sich hierbei?",
+          "3": "Nehmt die Zauberflöte aus eurem Rucksack und seht, was passiert."
+        }
+      },
+      "2": {
+        "text": "Ihr habt es fast geschafft! \n\n Das Mozart-Denkmal wurde enthüllt am \"18/07/1877\" \n\n Deine Antwort ist richtig. Habt ihr bereits beide Fragen richtig beantwortet, so fehlt euch nur mehr ein zentrales Objekt!",
+        "title": "Kapuzinerkloster",
+        "hints": {
+          "1": "Es geht erst weiter, wenn alle Spieler ihre Fragen beantwortet haben.",
+          "2": "Eines der bekanntesten Stücke Mozarts war heute schon das Thema. Um welches Instrument handelt es sich hierbei?",
+          "3": "Nehmt die Zauberflöte aus eurem Rucksack und seht, was passiert."
+        }
+      }
+    }
+  },
+
+  "screens": {
+    "CurrentRiddle":{
+      "color_question": "Welche Zahl hat die Farbe {{color}} ?"
+    },
+    "Singing":{
+      "title": "Sing es laut!"
+    },
+    "End":{
+      "title": "Mozarts Vermächtnis",
+      "text": "Ihr habt es geschafft! Gratulation! \n\n Wir freuen uns, dass ihr dieses Abenteuer gemeinsam als Team bewältigt habt! \n\n Zeigt uns bei eurem nächsten Termin vor Ort euren Buchungscode von Mozarts Vermächtnis und ihr erhaltet unsere Gutschein-Stempelkarte und 1 gratis Getränk pro Person! \n \n Wenn ihr nun wieder in Richtung Linzergasse nach unten spaziert, könnt ihr am Ende in die Linzergasse rechts abbiegen und zur Alexanderquelle (Linzergasse 16, 5020 Salzburg) gehen. Dort gibt es für jeden Spieler eine gratis Mozartkugel. Zeigt dem Besitzer einfach euer Selfie. Wir hoffen ihr hattet Spaß mit Mozarts Vermächtnis."
+    },
+    "Ranking":{
+      "title": "Rangliste"
+    },
+    "Home": {
+      "mainTitle": "Willkommen zu \n Mozarts Vermächtnis",
+      "title": "by Virtual Escape www.virtual-escape.at"
+    },
+    "MainMenu": {
+      "title": "Willkommen zu Mozarts Vermächtnis",
+      "text_1": "Folgende Spieler nehmen an diesem Abenteuer teil",
+      "text_2": "Ihr könnt jederzeit starten!",
+      "text_3": "Spielfortschritt: {{percent}}%",
+      "text_4": "Verbleibende Zeit: {{time}}"
+    },
+    "Intro": {
+      "mainTitle": "Einleitung / Intro",
+      "name": "Wolfgang Amadeus Mozart!",
+      "text_1": "Am 27. Jänner 1756 wurde in Salzburg ein Musiker und Künstler der Sonderklasse geboren:",
+      "text_2": "Er ist wohl einer der berühmtesten Salzburger und seine Werke sind weltweit bekannt. Kaum bekannt ist, dass Mozart im Jahr 1784 den Freimaurern beigetreten ist und einige seiner Werke speziell diesem Schaffen widmete.",
+      "text_3": "Wie unter Freimaurern üblich, gab und gibt es geheime Zeichen und Markierungen, um wichtige Informationen nur im internen Kreis weiterzugeben. Ein moderner Entschlüsselungsalgorythmus ermöglicht es uns nun diese Zeichen sichtbar zu machen.",
+      "text_4": "Nehmt diese App und findet Mozarts Vermächtnis! Aber beeilt euch, denn der | Schlüssel ändert | sich | alle 120 Minuten! | Danach müsst ihr wieder zurück sein!",
+      "text_5": "Es steht geschrieben, dass ihr euer Handy im Laufe eurer Suche mehrfach benötigt! Also ladet es vor dem Start gut auf und | nehmt | im Zweifelsfall | eine Powerbank mit!",
+      "text_6": "Um den Startpunkt eurer Reise herauszufinden, müsst ihr das erste Rätsel lösen:"
+    },
+    "Hints": {
+      "mainTitle": "Hinweise",
+      "text_1": "Hier könnt ihr euch Hinweise und Tipps holen. Nutzt diese Funktion aber nur, wenn ihr gar nicht weiterkommt.",
+      "text_2": "Eure Hinweise sind immer genau zum aktuellen Rätsel:",
+      "text_3": "Solltet ihr trotz aller Hinweise nicht weiterkommen, könnt ihr uns gerne zu Öffnungszeiten auch direkt anrufen: \n +43 676 5841300"
+    },
+    "StartingPoint": {
+      "mainTitle": "Finde den Startpunkt!",
+      "description": "Löse das erste Rätsel bereits jetzt und finde heraus, wo du in Salzburg startest:",
+      "centerText": "Die Hauptstadt von Oberösterreich, wie heißt sie noch gleich, zusammen mit der kleinen, engen Straße, dort beginnt Mozarts Reich!",
+      "hints": {
+        "1": "Die gesuchte kleine Straße befindet sich zentral in der Stadt Salzburg und endet bei der Staatsbrücke.",
+        "2": "Es handelt sich um die \"Linzergasse\" "
+      }
+    },
+    "StartGame": {
+      "mainTitle": "Spiel starten!",
+      "title": "Das Abenteuer wartet auf euch!",
+      "contentTitle": "Wichtige Informationen vor Spielstart:",
+      "centerText": "Sobald ihr euren Zugangscode auf einem Handy eingegeben habt, ist das Spiel aktiviert und die Zeit läuft. Es gibt dann kein Zurück mehr! \n\n Wenn man zwischendurch aus der App aussteigt oder hinausfliegt, kann man wieder einsteigen. Euch steht ebenso eine Karte zur Verfügung. Nutzt diese! Sie zeigt euch den ersten Standpunkt!",
+      "checkTitle": "Geht noch schnell diese Checkliste durch bevor ihr startet.",
+      "text_1": "Ihr kennt bereits den Startpunkt des Spiels und befindet euch im Idealfall schon in der Nähe.",
+      "text_2": "Es ist noch nicht zu spät (dunkel), um wirklich alles gut zu sehen.",
+      "text_3": "Eure Handys sind aufgeladen und ihr habt im Idealfall eine Powerbank dabei  (jeder Mitspieler ist wichtig und kann über spezielle Eigenschaften und Fähigkeiten verfügen!).",
+      "text_4": "Ein Spieler startet das Spiel und danach können alle weiteren dem Spiel beitreten:"
+    },
+    "Settings": {
+      "mainTitle": "Einstellungen"
+    },
+    "Rucksack": {
+      "mainTitle": "Rucksack"
+    },
+    "Map": {
+      "mainTitle": "KARTE"
+    }
+  }
+}

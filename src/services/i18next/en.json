@@ -1,0 +1,426 @@
+{
+  "words": {
+    "english": "English",
+    "german": "German",
+    "air": "Air",
+    "earth": "Earth",
+    "fire": "Fire",
+    "water": "Water",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "texts": {
+    "masonicPhone": "Masonic phone, no costs.",
+    "AssignTheElements" : "Assign the elements in your backpacks with the AR Camera to the according statues."
+  },
+  "modals": {
+    "notArSupport":"Please don't play the game with a device without functionial AR. You may get your team stuck at some tasks.",
+    "riddleSolved":"Riddle updated",
+    "takeElement": "You received the element \"{{name}}\".",
+    "incorrectLocation": "You're not at the correct location.",
+    "attach_air": "The element of | Air | got assigned to the | Herkules ringt mit Anthaeus | statue",
+    "attach_earth": "The element of | Earth | got assigned to the | Hades entführt Persephone | statue",
+    "attach_fire": "The element of | Fire | got assigned to the | Aeneas rettet Anchises | statue",
+    "attach_water": "The element of | Water | got assigned to the | Paris raubt Helena | statue",
+    "remained": "REMAINED",
+    "scanCode":"Scan code",
+    "dasKino": "You are in front of \"Das Kino\". The building dates back to the 14th century and was the former Engelwirt until it was converted into a golden angel in the 19th century and finally into a cinema in 1917.\n\nBut unfortunately you are wrong here. Try another way again!",
+    "spiritOfMozart": "\"Sit on the chair - close your eyes - turn inside yourself - lose the time\" \n\nYou are in front of the \"Spirit of Mozart\". The installation made of stainless steel invites you to meditate in the lively urban space.\n\nBut unfortunately you are wrong here. Try another way again!",
+    "stage_1": "Who are the Freemasons?\n\nThe Freemasons are an ethical alliance with the basic idea that working on yourself leads to more self-awareness and more humane behavior.\n\nHer ideals include freedom, equality, brotherhood, tolerance and humanity and these should be lived in everyday life.",
+    "stage_2" : "Excellent! You stand in front of the monument to Theophrastus Bombast von Hohenheim, known as Paracelsus (* 1493).\n\nHe later lived in this house in Salzburg and was among other things one of the most famous European doctors.\n\nHe wrote the famous quote: “All things are poison and nothing is without poison; the dose alone makes a thing not a poison. Paracelsus succumbed to mercury poisoning in 1541.\n\nAs a sign of life, water has always been an important element. The chalice of Paracelsus is now in your backpack. The next task awaits you - your puzzle has been updated!",
+    "stage_4" : "Great, you have found the secret sign at Mozart's residence! The Mozart family lived in this house from 1773 to 1787. W.A. Mozart himself was 17 - 31 years old at that time and very active musically. Your puzzle has been updated!",
+    "stage_7":"You are now in the beautiful Mirabell Gardens. It was built around 1690 on behalf of Prince Archbishop Johann Ernst Graf Thun and by Fischer von Erlach.\n\nFranz de Paula Johann Josef von Thun was always interwoven with the Freemasons. He probably persuaded Mozart to join the Freemasons.",
+    "stage_8":"**Marko-Feingold-Steg**\nYou stand on the Marko-Feingold-Steg (formerly Makartsteg). It was renamed in 2020 after Hofrat Marko M. Feingold, who was President of the Israelite Religious Community of Salzburg from 1979-2019 and an honorary citizen of the city. He died in 2019 at the age of 106.",
+    "stage_9" : "Awsome, you've found the secret sign at mozarts birthplace! For the following riddle your teamwork and logical thinking is needed. The riddle got updated!",
+    "stage_10": "For the Freemasons, numbers had an important symbolic meaning, above all the number 3: In the form of triangles (the equilateral), the veneration of the infinite and perfect should be shown, as well as the union of “true, beautiful and good”.\n\nYour current puzzle has been updated.",
+    "stage_11" : "Great, you've found the secret sign at the Zirkelwirt! At the time when Mozart was alive the Masonic Lodge \"Zur Fürsicht\" had meetings here. An important element of the masonic rites was the light as a sign for life. \"Die Lichteinbringung\" was a ceremonial event when a new masonic lodge was created. Your riddle has updated!",
+    "stage_12" : "Awsome! For the \"Lichteinbringugn\" you've got the \"Zauberflöte\" of Papageno as a present. Put it into your backpack!",
+    "stage_15" : "Great, you've found the secret sign! You're on the right path! Move forward to the Mozart Monument. Your riddle got updated!",
+    "stage_16" : "Well done, you've reached the final destination! At this historical place Mozart composed one of his most famous works named \"Die Zauberflöte\" shortly before his death.",
+    "attachQuestion": "Do you really want to assign the element {{name}} to this statue?",
+    "pauseWarning": "Once you've paused the game you can't enter your time into the ranking list.Do you want to pause the game now?",
+    "continueGame": "The game can be resumed within the next 7 days. Make sure all players are ready when you restart the game!",
+    "wrongAnswer": "Wrong answer",
+    "firstSkip": "If you skip a puzzle you lose 10 minutes of your playing time. Do you really want to skip?",
+    "untimedFirstSkip": "Do you really want to skip this riddle?",
+    "incorrectNumber":"We have written incorrect number",
+    "timeOver":"The game time has expired. You can continue the game but you can no longer get into the leaderboard."
+
+  },
+  "colors": {
+    "red": "Red",
+    "blue": "Blue",
+    "pink": "Pink",
+    "green": "Green",
+    "purple": "Purple",
+    "yellow": "Yellow"
+  },
+  "buttons": {
+    "hint_1": "Tipp 1",
+    "hint_2": "Tipp 2",
+    "hint_2_solution": "Tipp 2 (Solution)",
+    "hint_3_solution": "Tipp 3 (Solution)",
+    "activate_answer": "ACTIVATE ANSWER",
+    "start_new_game": "Start new game",
+    "join_running_game": "Join ongoing game",
+    "introduction_intro": "INTRODUCTION / INTRO",
+    "starting_point": "FIND THE STARTING POINT",
+    "start_game": "START GAME",
+    "continue_game": "CONTINUE GAME",
+    "mainMenu": "Main\nMenu",
+    "currentRiddle": "Current\nRiddle",
+    "current_riddle":"Current Riddle",
+    "rucksack": "Open\nBackpack",
+    "map": "Open\nMap",
+    "cameraAr": "Activate AR\ncamera",
+    "cameraQR": "Activate QR\ncamera",
+    "hints": "Hints",
+    "start_singing": "Start singing",
+    "pauseGame":"Pause game",
+    "continueGame":"Continue game",
+    "skipRiddle":"Skip riddle",
+    "exitGameSession":"Exit game session",
+    "timedMode": "Timed Mode",
+    "untimedMode": "Untimed Mode"
+  },
+  "inputs": {
+    "placeholder": {
+      "answer": "Enter your answer here"
+    },
+    "labels": {
+      "solution": "Solution",
+      "player_name": "Player name",
+      "activation_code": "Activation code",
+      "language": "Language:"
+    }
+  },
+  "titles": {
+    "Cabinet": "Cabinet"
+  },
+  "alerts": {
+    "traffic": "Please remember that you are moving in public space and that there are other road users. So if possible cross streets at pedestrian lights and always look around carefully.",
+    "element_attached": "You attached an element to the right statue. There are {{count}} more items left to attach",
+    "element_already_attached": "This element is already attached",
+    "DeleteTitle": "Delete",
+    "unfilled_elements": "Not all elements are collected yet.",
+    "element_already_taken": "The element {{name}} already taken",
+    "enough_space_1": "There is only enough space for 1 element in your backpack.",
+    "enough_space_2": "There is only enough space for 2 elements in your backpack.",
+    "element_not_in_backpack": "You don't have the correct element for this statue in your backpack.",
+    "cup_is_not_active": "You need something to catch the water with!",
+    "element_is_not_active": "You have to activate the element {{name}} first.",
+    "canNotNow": "You can't use this item right now",
+    "activeElement":"In order to be able to assign an element to a statue, you must first select an element in your backpack.",
+    "newTakenElement":"Your friends took the element of {{name}}",
+    "chooseGameMode": "Choose game mode"
+
+
+  },
+  "notifications": {
+    "cup_activated": "The chalice is activated",
+    "element_activated": "The element is activated"
+  },
+  "riddles": {
+    "1": {
+      "text": "Follow the map to the displayed location. Upon arrival, find the secret sign to start the game with the AR camera.",
+      "title": "Linzergasse",
+      "hints": {
+        "1": "Make sure that you are exactly at the point marked on the map (red pin on the map)",
+        "2": " You have to look at the house wall with the horse's head with the help of the AR camera. A Masonic symbol should appear there.",
+        "3": "You can skip this puzzle in the main menu at the top right next to the gear (settings) (press Skip riddle once and go back at the top left)."
+      }
+    },
+    "2": {
+      "text": "Follow the map. You have to find a memorial in honour of a very important doctor of the 16th century somewhere here. \n\n Find it and it will show you the path! The doctors name was: Philippus Aureolus Theophrastus Bombastus von Hohenheim",
+      "title": "Linzergasse",
+      "hints": {
+        "1": "You are looking for a portrait of Paracelsus",
+        "2": "Especially have a look along the walls of the buildings",
+        "3": "Look above the Alpz Gelato & Café!"
+      }
+    },
+    "3": {
+      "text": "Follow the map. You have to find a memorial in honour of a very important doctor of the 16th century somewhere here. \n\n Find it and it will show you the path! The doctors name was: Philippus Aureolus Theophrastus Bombastus von Hohenheim \n\n We are traveling back in time. Take the goblet of health and fill it up with water. There are three possible places, but only one of them is the right one. The right place was already used since 1374!",
+      "title": "Linzergasse",
+      "hints": {
+        "1": "Explore all 3 locations - there may be hidden something.",
+        "2": "Scan the walls if you see something standing out.",
+        "3": "You must activate the chalice in the backpack before you do the scan."
+      }
+    },
+    "4": {
+      "text": "Discover the secret sign!",
+      "title": "Mozart's Residence",
+      "hints": {
+        "1": "The secret sign is on the wall of Mozart Residence.",
+        "2": "This serenade was finished from Mozart on the 10th of August 1787 in Vienna. We want you to name the famous side name of this composition (German language).",
+        "3": "If you look at the archway at the entrance of \"Mozart's Wohnhaus\" with the AR camera, a Freemason sign should appear. You can also skip this puzzle in the main menu at the top right next to the gear (settings) (press Skip riddle once and go back at the top left)"
+      }
+    },
+    "5": {
+      "text": "Mozart encoded the clue to the next location through his music so that only initiated Freemasons could follow his tracks. What is the name of this piece of music?",
+      "title": "Mozart's Residence",
+      "hints": {
+        "1": "The secret sign is on the wall of Mozart Residence.",
+        "2": "This serenade was finished from Mozart on the 10th of August 1787 in Vienna. We want you to name the famous side name of this composition (German language).",
+        "3": "Eine kleine Nachtmusik"
+      }
+    },
+    "6": {
+      "text": "In 1690 prince archbishop Johann Ernst Graf Thun ordered Fischer von Erlach to build Mirabell gardens (Mirabellgarten). \n\n Franz de Paula Johann Josef Graf von Thun was always close with the secret society of Freimaurer. Maybe it was even him who persuaded Mozart to join in. \n\n Each statue at the Mirabell fountain represents one of the four elements. Bring them in the correct correlation!",
+      "secondText": "Go to the Mirabell Gardens and find all four elements (fire, water, earth and air)!",
+      "title": "Mirabellgarten",
+      "hints": {
+        "1": "Your destination is the center of the Mirabell-Garten ",
+        "2": "Look out for the Fountain named \"Vier-Elemente-Brunnen\".",
+        "3": "At your arrival the riddle will update itself."
+      }
+    },
+    "7": {
+      "text": "Go to the Mirabell Gardens and find all four elements (fire, water, earth and air)!",
+      "title": "Mirabellgarten",
+      "hints": {
+        "1": "There is something hidden within your current riddle.",
+        "2": "Tap on the displayed element-icons to collect them.",
+        "3": "Collect all 4 elements to get to the next part of the riddle."
+      },
+      "hints_2": {
+        "1": "Activate an element within your backpack. After that is done, scan the according statue.",
+        "2": "If a scan doesn't work, please make sure you got the right Element activated. Please also make sure not to stand too far away from the statue.",
+        "3": ""
+      }
+    },
+    "8": {
+      "text": "Walk to the bridge of love! \n\n Get to the middle of the bridge and find the light! \n\n Mozart will be here forever",
+      "title": "Bridge of Love",
+      "hints": {
+        "1": "Makartsteg aka Marko-Feingold-Steg",
+        "2": "In the middle of the bridge there is a neon light tube. Look somewhere around that light for a red lock with text about Mozart or an QR code.",
+        "3": "One of the locks has a Freimaurer symbol and a QR-Code on it. Scan the QR-Code and you will find the next place."
+      }
+    },
+    "9": {
+      "text": "Wolfgang Amadeus Mozart was born in January 27th 1756 in Salzburg. \n\n Maybe there is a hint somewhere near his birthplace?",
+      "title": "Mozart’s Birthplace",
+      "hints": {
+        "1": " Use your camera (AR) to discover the Freimaurer sign on the wall close to Mozart’s birthplace",
+        "2": "Different players can spot different information. Put all of the information together and solve the colour riddle. But watch out! After any wrong answer (no matter from which player) the information changes.",
+        "3": "The correct answer at the moment is: "
+      }
+    },
+    "10": {
+      "text": "Wolfgang Amadeus Mozart was born in January 27th 1756 in Salzburg. \n\n Maybe there is a hint somewhere near his birthplace?",
+      "title": "Mozart’s Birthplace",
+      "hints": {
+        "1": " Use your camera (AR) to discover the Freimaurer sign onEge the wall close to Mozart’s birthplace",
+        "2": "Different players can spot different information. Put all of the information together and solve the colour riddle. But watch out! After any wrong answer (no matter from which player) the information changes.",
+        "3": "The correct answer at the moment is: "
+      }
+    },
+    "11": {
+      "text": "Look around in this interesting place!",
+      "title": "Zum Zirkelwirt",
+      "hints": {
+        "1": "Use your camera (AR) to discover the Freimaurer sign on the wall or somewhere around the restaurant Zum Zirkelwirt.",
+        "2": "Open your camera (AR) and explore the square around the restaurant Zum Zirkelwirt. As soon as one player can find the significant statue the quest continues.",
+        "3": "You have to look at the Papageno statue from a certain side with the AR camera. You can also skip this puzzle in the main menu at the top right next to the gear (settings) (press Skip riddle once and go back at the top left)."
+      }
+    },
+    "12": {
+      "text": "Look around in this interesting place \n\n The legend tells that the Masonic Lodge Zur Fürsicht was meeting at the restaurant Zum Zirkelwirt with Mozart back in time. \n\n Spread up around here and search for a significant symbol somewhere at this square. \n\n It shall be light!",
+      "title": "Zum Zirkelwirt",
+      "hints": {
+        "1": "Use your camera (AR) to discover the Freimaurer sign on the wall or somewhere around the restaurant Zum Zirkelwirt.",
+        "2": "Open your camera (AR) and explore the square around the restaurant Zum Zirkelwirt. As soon as one player can find the significant statue the quest continues.",
+        "3": "You have to capture the Papageno statue from a certain side with the AR camera. You can also skip this puzzle in the main menu at the top right next to the gear (settings) (press Skip riddle once and go back at the top left)."
+      }
+    },
+    "13": {
+      "text": "Go to Mozartsteg, but be careful when crossing streets!",
+      "title": "Mozartsteg",
+      "hints": {
+        "1": "Use your camera (AR) to discover the Freimaurer sign on the wall or somewhere around the restaurant Zum Zirkelwirt.",
+        "2": "Open your camera (AR) and explore the square around the restaurant Zum Zirkelwirt. As soon as one player can find the significant statue the quest continues.",
+        "3": "Walk to the middle of the bridge. (shown on the map)"
+      }
+    },
+    "14": {
+      "text": "Show mozart how well you can hold a tone.",
+      "title": "Mozartsteg!",
+      "hints": {
+        "1": "Sing!",
+        "2": "Sing all together!",
+        "3": "The final station of your quest will be reveal as soon as all players are singing together in each of their devices."
+      }
+    },
+    "15": {
+      "text": "Go up the mountain to the Monastery Capuchin and follow the street back. If you can spot some Freimaurer symbols you are on the right track!",
+      "title": "Monastery Capuchin",
+      "hints": {
+        "1": "Move to the specified location which is marked on the map.",
+        "2": "Look around at the location with the AR camera.",
+        "3": "You'll find the sign at the blue markings on the wall and at the statue."
+      }
+    },
+    "16": {
+      "text": "You are close to finish! \n Go to the final station of your quest and show all your riddle-skills!",
+      "title": "Monastery Capuchin",
+      "hints": {
+        "1": "Follow the street further up the mountain.",
+        "2": "The Mozart monument is your final destination.",
+        "3": "Try scanning the Mozart-Monument with your AR camera."
+      }
+    },
+    "17": {
+      "1": {
+        "text": "You are close to finish! \n The Mozart monument is a gift from the family",
+        "title": "Monastery Capuchin",
+        "hints": {
+          "1": "Go up the mountain to the Monastery Capuchin and follow the street back. If you can spot some Freimaurer symbols you are on the right track.",
+          "2": "The Mozart monument is your final destination. Take a close look and maybe one of the players has something in his backpack that could be useful in this specific place",
+          "3": "The Mozart monument is a gift from the family \"Freiherren von Schwarz\" . \n\n Take the magic flute out of your backpack and see what happens next!"
+        }
+      },
+      "2": {
+        "text": "You are close to finish! \n The Mozart monument was presented in …",
+        "title": "Monastery Capuchin",
+        "hints": {
+          "1": "Go up the mountain to the Monastery Capuchin and follow the street back. If you can spot some Freimaurer symbols you are on the right track.",
+          "2": "The Mozart monument is your final destination. Take a close look and maybe one of the players has something in his backpack that could be useful in this specific place",
+          "3": "The Mozart monument was presented in \"18/07/1877\" . \n\n Take the magic flute out of your backpack and see what happens next!"
+        }
+      }
+    },
+    "18": {
+      "1": {
+        "text": "You are close to finish! \n The Mozart monument is a gift from the family \"Freiherren von Schwarz\" \n The answer is correct. If your team already answered both questions correct you will only need one significant object to use in this place.",
+        "title": "Monastery Capuchin",
+        "hints": {
+          "1": "Go up the mountain to the Monastery Capuchin and follow the street back. If you can spot some Freimaurer symbols you are on the right track.",
+          "2": "The Mozart monument is your final destination. Take a close look and maybe one of the players has something in his backpack that could be useful in this specific place",
+          "3": "The Mozart monument is a gift from the family \"Freiherren von Schwarz\" . \n\n Take the magic flute out of your backpack and see what happens next!"
+        }
+      },
+      "2": {
+        "text": "You are close to finish! \n The Mozart monument was presented in ",
+        "title": "Monastery Capuchin",
+        "hints": {
+          "1": "Go up the mountain to the Monastery Capuchin and follow the street back. If you can spot some Freimaurer symbols you are on the right track.",
+          "2": "The Mozart monument is your final destination. Take a close look and maybe one of the players has something in his backpack that could be useful in this specific place",
+          "3": "The Mozart monument was presented in \"18/07/1877\" . \n\n Take the magic flute out of your backpack and see what happens next!"
+        }
+      }
+    },
+    "19": {
+      "1": {
+        "text": "You are close to finish! \n The Mozart monument is a gift from the family  ",
+        "title": "Monastery Capuchin",
+        "hints": {
+          "1": "Go up the mountain to the Monastery Capuchin and follow the street back. If you can spot some Freimaurer symbols you are on the right track.",
+          "2": "The Mozart monument is your final destination. Take a close look and maybe one of the players has something in his backpack that could be useful in this specific place",
+          "3": "The Mozart monument is a gift from the family \"Freiherren von Schwarz\" . \n\n Take the magic flute out of your backpack and see what happens next!"
+        }
+      },
+      "2": {
+        "text": "You are close to finish! \n\n The Mozart monument was presented in \"18/07/1877\" \n\n The answer is correct. If your team already answered both questions correct you will only need one significant object to use in this place.",
+        "title": "Monastery Capuchin",
+        "hints": {
+          "1": "Go up the mountain to the Monastery Capuchin and follow the street back. If you can spot some Freimaurer symbols you are on the right track.",
+          "2": "The Mozart monument is your final destination. Take a close look and maybe one of the players has something in his backpack that could be useful in this specific place",
+          "3": "The Mozart monument was presented in \"18/07/1877\" . \n\n Take the magic flute out of your backpack and see what happens next!"
+        }
+      }
+    },
+    "20": {
+      "1": {
+        "text": "You are close to finish! \n\n The Mozart monument is a gift from the family \"Freiherren von Schwarz\" \n\n The answer is correct. If your team already answered both questions correct you will only need one significant object to use in this place.",
+        "title": "Monastery Capuchin",
+        "hints": {
+          "1": "Go up the mountain to the Monastery Capuchin and follow the street back. If you can spot some Freimaurer symbols you are on the right track.",
+          "2": "The Mozart monument is your final destination. Take a close look and maybe one of the players has something in his backpack that could be useful in this specific place",
+          "3": "The Mozart monument is a gift from the family \"Freiherren von Schwarz\" . \n\n Take the magic flute out of your backpack and see what happens next!"
+        }
+      },
+      "2": {
+        "text": "You are close to finish! \n\n The Mozart monument was presented in \"18/07/1877\" \n\n The answer is correct. If your team already answered both questions correct you will only need one significant object to use in this place.",
+        "title": "Monastery Capuchin",
+        "hints": {
+          "1": "Go up the mountain to the Monastery Capuchin and follow the street back. If you can spot some Freimaurer symbols you are on the right track.",
+          "2": "The Mozart monument is your final destination. Take a close look and maybe one of the players has something in his backpack that could be useful in this specific place",
+          "3": "The Mozart monument was presented in \"18/07/1877\" . \n\n Take the magic flute out of your backpack and see what happens next!"
+        }
+      }
+    }
+  },
+  "screens": {
+    "CurrentRiddle":{
+      "color_question": "Which number is {{color}} ?"
+    },
+    "Singing": {
+      "title": "Sing it loud!"
+    },
+    "End": {
+      "title": "Mozart's Legacy",
+      "text": "You made it! Congratulations! \n\n We are happy that you have mastered this adventure together as a team! \n\n Show us your booking code from Mozart's legacy at your next appointment and you will receive our voucher stamp card and 1 free drink per person!"
+    },
+    "Ranking": {
+      "title": "Ranking"
+    },
+    "Intro": {
+      "mainTitle": "Introduction / Intro",
+      "name": "Wolfgang Amadeus Mozart!",
+      "text_1": "On January 27, 1756, a special class musician and artist was born in Salzburg:",
+      "text_2": "He is probably one of the most famous Salzburg residents and his works are known worldwide. What is hardly known is that Mozart joined the Freemasons in 1784 and dedicated some of his works specifically to this work.",
+      "text_3": "As is customary among Freemasons, there were and are secret signs and markings in order to pass on important information only in an internal circle. A modern decryption algorithm now enables us to make these signs visible.",
+      "text_4": "Nehmt diese App und findet Mozarts Vermächtnis! Aber beeilt euch, denn der Schlüssel ändert sich alle 120 Minuten! Danach müsst ihr wieder zurück sein!",
+      "text_5": "Take this app and find Mozart's legacy! But hurry because the key changes every 120 minutes! Then you have to be back!",
+      "text_6": "To find the starting point of your journey, you have to solve the first puzzle:"
+    },
+    "Hints": {
+      "mainTitle": "Hints",
+      "text_1": "Here you can get some helping hints. Only use these hints if you have no clue how to get any further in the quest.",
+      "text_2": "Your hints are always about your current riddle:",
+      "text_3": "If you've used all three hints and you are still not able to get any further, you can call us during our opening times: \n +43 676 5841300"
+    },
+    "Home": {
+      "mainTitle": "Welcome to \n Mozart's legacy",
+      "title": "by Virtual Escape www.virtual-escape.at"
+    },
+    "MainMenu": {
+      "title": "Welcome to Mozart's legacy",
+      "text_1": "These players did join the game:",
+      "text_2": "You can start at any given time!",
+      "text_3": "Game progress: {{percent}}%",
+      "text_4": "Remaining time: {{time}}"
+    },
+    "StartingPoint": {
+      "mainTitle": "Find the starting point!",
+      "description": "Solve the first puzzle now and find out where you start in Salzburg:",
+      "centerText": "The capital of Upper Austria, what is it called, together with the small, narrow street, that's where Mozart's empire begins!",
+      "hints": {
+        "1": "The little street you are looking for is centrally located in the city of Salzburg and ends at the State Bridge.",
+        "2": "It's about the \"Linzergasse\" "
+      }
+    },
+    "StartGame": {
+      "mainTitle": "Start the game!",
+      "title": "The adventure awaits you!",
+      "contentTitle": "Important information before you start the game:",
+      "centerText": "Once you have entered your access code on a mobile phone, the game is activated and the time runs (120min). There is no way back! \n If you exit or close the app during playing you can always resume back in the game, as long as the time has not exceeded 120 min. \n There is a map available, which you can use. It will show you the starting point.",
+      "checkTitle": "Quickly go through this checklist before you start:",
+      "text_1": "You already know the starting point of the game and ideally you are already close by.",
+      "text_2": "It is not too late (dark) to see everything well",
+      "text_3": "Your phones are charged and you might also have a power bank (just in case). Every player is important and can have special features and abilities with their phones!",
+      "text_4": "One player starts the game and after that all the other players can join in:"
+    },
+    "Settings": {
+      "mainTitle": "Settings"
+    },
+    "Rucksack": {
+      "mainTitle": "Rucksack"
+    },
+    "Map": {
+      "mainTitle": "MAP"
+    }
+  }
+}
